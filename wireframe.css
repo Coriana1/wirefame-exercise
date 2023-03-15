@@ -1,0 +1,39 @@
+.row {
+  display: flex-;
+  flex-direction: row;
+  justify-content: center;
+}
+
+header {
+  border: thin thick black;
+}
+#navigation {
+  height: 100px;
+  background-color: lightpink;
+}
+
+a {
+  margin: 80px;
+}
+
+h1 {
+  text-align: center;
+  background-color: lightpink;
+  margin: 0 auto;
+}
+
+section{
+  background-color: salmon;
+}
+main {
+  border: thick solid whitesmoke;
+  margin: 0 auto;
+}
+
+p {
+  flex-flow: column wrap;
+}
+div {
+  margin: 70px;
+  justify-content: flex-start;
+}
